@@ -11,8 +11,8 @@
       "ukuran_mb": 15,
       "tipe_mod": "Full Animasi",
       "rating": 4.8,
-      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino500_dump_kalimantan.jpg",
-      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino500_dump_kalimantan.bussidmod"
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino500_dump_kalimantan.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino500_dump_kalimantan.bussidmod"
     },
     {
       "id": 2,
@@ -23,8 +23,8 @@
       "ukuran_mb": 18,
       "tipe_mod": "Full Animasi",
       "rating": 4.7,
-      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino500_tronton_sumatra.jpg",
-      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino500_tronton_sumatra.bussidmod"
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino500_tronton_sumatra.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino500_tronton_sumatra.bussidmod"
     },
     {
       "id": 3,
@@ -35,8 +35,8 @@
       "ukuran_mb": 28,
       "tipe_mod": "Full Animasi",
       "rating": 4.9,
-      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino700_profia_tank.jpg",
-      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino700_profia_tank.bussidmod"
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino700_profia_tank.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino700_profia_tank.bussidmod"
     },
     {
       "id": 4,
@@ -47,8 +47,8 @@
       "ukuran_mb": 12,
       "tipe_mod": "Standard",
       "rating": 4.5,
-      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino700_tanpa_bak.jpg",
-      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino700_tanpa_bak.bussidmod"
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino700_tanpa_bak.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino700_tanpa_bak.bussidmod"
     },
     {
       "id": 5,
@@ -59,8 +59,68 @@
       "ukuran_mb": 22,
       "tipe_mod": "Full Animasi",
       "rating": 4.8,
-      "url_gambar": "https://raw.githubusercontent.com/NAMA_AKUN/mod-truck-hino-bussid/main/thumbnails/hino500_selfloader_buldozer.jpg",
-      "url_mod": "https://github.com/NAMA_AKUN/mod-truck-hino-bussid/releases/download/v1.0/hino500_selfloader_buldozer.bussidmod"
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino500_selfloader_buldozer.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino500_selfloader_buldozer.bussidmod"
+    },
+    {
+      "id": 6,
+      "nama": "Hino 500 NG Muatan Motor",
+      "kategori": "Hino 500",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 500 NG pengangkut motor, full animasi dengan livery keren.",
+      "ukuran_mb": 14,
+      "tipe_mod": "Full Animasi",
+      "rating": 4.6,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino500_ng_muatan_motor.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino500_ng_muatan_motor.bussidmod"
+    },
+    {
+      "id": 7,
+      "nama": "Hino 500 NG Muatan Sound System",
+      "kategori": "Hino 500",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 500 NG dengan muatan sound system, detail dan realistis.",
+      "ukuran_mb": 16,
+      "tipe_mod": "Full Animasi",
+      "rating": 4.7,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino500_ng_sound_system.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino500_ng_sound_system.bussidmod"
+    },
+    {
+      "id": 8,
+      "nama": "Hino 500 Dump Sawit Hijau",
+      "kategori": "Hino 500",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 500 dump muatan sawit hijau khas Kalimantan dan Sumatra.",
+      "ukuran_mb": 13,
+      "tipe_mod": "Full Animasi",
+      "rating": 4.6,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino500_dump_sawit.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino500_dump_sawit.bussidmod"
+    },
+    {
+      "id": 9,
+      "nama": "Hino 700 Peti Kemas",
+      "kategori": "Hino 700",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 700 pengangkut peti kemas, cocok untuk rute pelabuhan.",
+      "ukuran_mb": 24,
+      "tipe_mod": "Full Animasi",
+      "rating": 4.8,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino700_peti_kemas.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino700_peti_kemas.bussidmod"
+    },
+    {
+      "id": 10,
+      "nama": "Hino 700 Tangki Jumbo Semen",
+      "kategori": "Hino 700",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 700 tangki jumbo pengangkut semen, full strobo dan animasi.",
+      "ukuran_mb": 26,
+      "tipe_mod": "Full Animasi",
+      "rating": 4.9,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/hino700_tangki_semen.jpg",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/hino700_tangki_semen.bussidmod"
     }
   ]
 }
