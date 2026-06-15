@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "last_updated": "2026-06-13",
+  "version": 4,
+  "last_updated": "2026-06-15",
   "kategori_list": [
     "Muatan Sawit",
     "Sound System",
@@ -9,7 +9,6 @@
     "Truck Kalimantan"
   ],
   "mods": [
-
     {
       "id": 1,
       "nama": "Truck Canter Custom 03 Dump Sawit",
@@ -140,7 +139,6 @@
       "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/NMR-Modern-Style-Muatan-Sawit.webp",
       "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/NMR-Modern-Style-Muatan-Sawit.bussidmod"
     },
-
     {
       "id": 11,
       "nama": "Truck Hino 500 Angkut Sound",
@@ -271,7 +269,6 @@
       "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Pick-Up-Dugem-Sound-Blackpink.webp",
       "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Pick-Up-Dugem-Sound-Blackpink.bussidvehicle"
     },
-
     {
       "id": 21,
       "nama": "Hino 700 Peti Kemas Box",
@@ -401,7 +398,188 @@
       "rating": 4.6,
       "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Truck-Hino-500NG-Muatan-Motor.webp",
       "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Truck-Hino-500NG-Muatan-Motor.bussidmod"
+    },
+    {
+      "id": 31,
+      "nama": "Truck Hino 500 Bak Sumatra",
+      "kategori": "Truck Sumatra",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino 500 dengan bak bergaya Sumatra, full animasi dan tampilan gagah ala truk antar kota.",
+      "ukuran_mb": 13,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.7,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Truck-Hino-500-Bak-Sumatra.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Truck-Hino-500-Bak-Sumatra.bussidmod"
+    },
+    {
+      "id": 32,
+      "nama": "Truk Canter Sumatra Dewi Sri",
+      "kategori": "Truck Sumatra",
+      "author": "Community Mod",
+      "deskripsi": "Mod Canter livery Dewi Sri bergaya Sumatra, warna cerah dengan detail ornamen khas truk Sumatra.",
+      "ukuran_mb": 11,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.7,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Truk-Canter-Sumatra-Dewi-Sri.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Truk-Canter-Sumatra-Dewi-Sri.bussidmod"
+    },
+    {
+      "id": 33,
+      "nama": "Actros Sumatra",
+      "kategori": "Truck Sumatra",
+      "author": "Community Mod",
+      "deskripsi": "Mod Mercedes-Benz Actros bergaya Sumatra, tampilan premium dan gagah untuk konvoi antar kota.",
+      "ukuran_mb": 16,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.8,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Mod-Mercedes-Benz-Actros-Sumatra.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Mod-Mercedes-Benz-Actros-Sumatra.bussidmod"
+    },
+    {
+      "id": 34,
+      "nama": "Truk Sumatra Fuso Tribal",
+      "kategori": "Truck Sumatra",
+      "author": "Community Mod",
+      "deskripsi": "Mod Fuso dengan desain tribal khas Sumatra, full animasi dan livery unik penuh warna.",
+      "ukuran_mb": 12,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.6,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Truk-Sumatra-Fuso-Tribal.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Truk-Sumatra-Fuso-Tribal.bussidmod"
+    },
+    {
+      "id": 35,
+      "nama": "Truck Canter Standar Sumatra",
+      "kategori": "Truck Sumatra",
+      "author": "Community Mod",
+      "deskripsi": "Mod Canter standar bergaya Sumatra, simpel namun tetap menarik dan cocok untuk pemula.",
+      "ukuran_mb": 8,
+      "tipe_mod": "Standard",
+      "format": "bussidmod",
+      "rating": 4.5,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Truck-Canter-Standar-Sumatra.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Truck-Canter-Standar-Sumatra.bussidmod"
+    },
+    {
+      "id": 36,
+      "nama": "NMR71 Sumatra",
+      "kategori": "Truck Sumatra",
+      "author": "Community Mod",
+      "deskripsi": "Mod Isuzu NMR71 bergaya Sumatra, full animasi dengan detail livery khas truk antar kota.",
+      "ukuran_mb": 10,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.6,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Mod-Isuzu-NMR71-Sumatra.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Mod-Isuzu-NMR71-Sumatra.bussidmod"
+    },
+    {
+      "id": 37,
+      "nama": "Truck Sumatra Hino Spady",
+      "kategori": "Truck Sumatra",
+      "author": "Community Mod",
+      "deskripsi": "Mod Hino Spady bergaya Sumatra, tampilan sporty dengan detail lampu strobo yang mencolok.",
+      "ukuran_mb": 12,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.7,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Mod-BUSSID-Truck-Sumatra-Hino-Spady.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Mod-BUSSID-Truck-Sumatra-Hino-Spady.bussidmod"
+    },
+    {
+      "id": 38,
+      "nama": "Truck Canter HDL Sumatera",
+      "kategori": "Truck Sumatra",
+      "author": "Community Mod",
+      "deskripsi": "Mod Canter HDL bergaya Sumatra, full animasi dengan livery garang dan strobo penuh.",
+      "ukuran_mb": 11,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.6,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Truck-Canter-HDL-Sumatra.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Truck-Canter-HDL-Sumatra.bussidmod"
+    },
+    {
+      "id": 39,
+      "nama": "Canter Dump Kalimantan",
+      "kategori": "Truck Kalimantan",
+      "author": "Community Mod",
+      "deskripsi": "Mod Canter dump khas Kalimantan, full animasi dengan muatan berat yang realistis.",
+      "ukuran_mb": 11,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.7,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Mod-Canter-Dump-Kalimantan.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Mod-Canter-Dump-Kalimantan.bussidmod"
+    },
+    {
+      "id": 40,
+      "nama": "Truck Fuso FN Kalimantan",
+      "kategori": "Truck Kalimantan",
+      "author": "Community Mod",
+      "deskripsi": "Mod Fuso FN Kalimantan pengangkut peti kemas, cocok untuk rute pelabuhan dan logistik berat.",
+      "ukuran_mb": 14,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.8,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Truck-Fuso-Kalimantan-Muat-Peti-Kemas.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Truck-Fuso-Kalimantan-Muat-Peti-Kemas.bussidmod"
+    },
+    {
+      "id": 41,
+      "nama": "Fuso Kalimantan Muatan Ban",
+      "kategori": "Truck Kalimantan",
+      "author": "Community Mod",
+      "deskripsi": "Mod Fuso Kalimantan dengan muatan ban truk, tampilan unik dan jarang ditemui di mod lain.",
+      "ukuran_mb": 12,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.6,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Mod-Fuso-Kalimantan-Muatan-Ban.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Mod-Fuso-Kalimantan-Muatan-Ban.bussidmod"
+    },
+    {
+      "id": 42,
+      "nama": "C47 Fuso SG Oklay",
+      "kategori": "Truck Kalimantan",
+      "author": "Community Mod",
+      "deskripsi": "Mod Fuso C47 SG Oklay, full animasi dengan livery dan lampu strobo khas Kalimantan.",
+      "ukuran_mb": 13,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.7,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/C47-Fuso-SG-Oklay.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/C47-Fuso-SG-Oklay.bussidmod"
+    },
+    {
+      "id": 43,
+      "nama": "Fuso Kanaya Putri Muat Sapi",
+      "kategori": "Truck Kalimantan",
+      "author": "Community Mod",
+      "deskripsi": "Mod Fuso Kanaya Putri dengan muatan sapi, cocok untuk simulasi truk pengangkut ternak.",
+      "ukuran_mb": 12,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.6,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Fuso-Kanaya-Putri-Muat-Sapi.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Fuso-Kanaya-Putri-Muat-Sapi.bussidmod"
+    },
+    {
+      "id": 44,
+      "nama": "Fuso FN Trailer Beton",
+      "kategori": "Truck Kalimantan",
+      "author": "Community Mod",
+      "deskripsi": "Mod Fuso FN trailer pengangkut beton/cor, tampilan berat dan realistis untuk proyek konstruksi.",
+      "ukuran_mb": 15,
+      "tipe_mod": "Full Animasi",
+      "format": "bussidmod",
+      "rating": 4.7,
+      "url_gambar": "https://raw.githubusercontent.com/shdqmld-byte/mod-truck-hino-bussid/main/thumbnails/Fuso-FN-Trailer-Beton.webp",
+      "url_mod": "https://github.com/shdqmld-byte/mod-truck-hino-bussid/releases/download/v1.0/Fuso-FN-Trailer-Beton.bussidmod"
     }
-
   ]
 }
